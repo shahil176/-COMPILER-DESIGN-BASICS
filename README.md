@@ -56,4 +56,4 @@ This task also emphasizes the importance of compiler design in software developm
 
 In conclusion, this lexical analyzer project serves as an essential step in grasping how high-level code is broken into basic components before actual compilation. It helps students and beginners appreciate the lower-level functioning of a compiler while reinforcing concepts of string processing and decision-making logic in C.
 #OUTPUT: 
-
+![Image](https://github.com/user-attachments/assets/bb6eead9-732a-48f6-9c5a-1a99df460b9c)
